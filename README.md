@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone [<repository_url>](https://github.com/KaavinB/Realtime_Spam_Detection.git)
+git clone https://github.com/KaavinB/Realtime_Spam_Detection.git
 ```
 
 2. Ensure you have a CSV file containing email data. By default, the code assumes the file is named `spam.csv` and contains columns named `Message` and `Category` (spam or ham).
